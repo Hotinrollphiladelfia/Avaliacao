@@ -19,8 +19,8 @@
   }
  
 .cabecalho{
-    background-color: #d8127f;
-    color: #9c0590;
+    background-color: #d40a3c;
+    color: #000000;
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -46,8 +46,8 @@ padding: 0 15px;
     width: 20%;
 }
 .escola{
-    background-image:linear-gradient(#ad0575, #a50138);
-    color: #a50138;
+    background-image:linear-gradient(#d40a3c, #4c00af);
+    color: #000000;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -81,5 +81,5 @@ padding: 0 15px;
 grid-template-columns: 40% 65% 30%;
 }
 .estudante{
-    background-color: #24d629;
+    background-color: #24d629;nferno 2
 }
